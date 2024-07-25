@@ -1,0 +1,7 @@
+{
+    "editor.minimap.enabled": false,
+    "multiDiffEditor.experimental.enabled": true,
+    "diffEditor.wordWrap": "on",
+    "diffEditor.useInlineViewWhenSpaceIsLimited": true,
+    "diffEditor.renderSideBySide": true
+}
